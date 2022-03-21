@@ -1,13 +1,13 @@
 [features]
 seeds = false
-[programs.localnet]
-blastfm = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+blastfm = "XNFCVpn6ujGoEEsDJxQWJ36k7HnUQVPzrWc3YBosq9u"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/Users/solom/.config/solana/id.json"
 
 [scripts]
