@@ -3,6 +3,7 @@ The Anchor's bootstrapped on-chain Rust program of [Blast.fm](https://github.com
 
 ## The project
 Following the original content of the tutorial from [buildspace](https://app.buildspace.so/home), I've decided to replace the GIF stuff with music players from spotify ID's
+
 The name of the program and the so-called design is a pun to `last.fm` being very used in the 2000's as Spotify is nowadays for music sharing.
 
 ## State of the project
